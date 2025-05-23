@@ -7,6 +7,7 @@
 -なぜか途中から「勝ち」で前に進めるよりも「動かない」停滞を目指してしまうという少し社会風刺を感じさせるアプリ。
 ## ③アプリのデプロイURL
 -https://github.com/Roggy-1018/kadai02_janken_rich.git
+-https://sankenbunritsu-janken.created.app
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
